@@ -10,9 +10,9 @@
 
 <br>
 
-## About
+<img src="assets/header-about.svg" height="44"/>
 
-<img src="assets/divider.svg" width="120"/>
+<br>
 
 I work across the full data lifecycle — cleaning and wrangling raw data, building and evaluating ML models (regression, trees, ensembles), and turning all of it into dashboards and reports stakeholders actually act on. Equally comfortable in a notebook running cross-validation as I am in Power BI writing a DAX measure, or scoping how a feature/pipeline should even be structured in the first place.
 
@@ -20,9 +20,17 @@ B.Tech in Computer Science (GPA 8.9/10). Currently a Data Science Trainee at Che
 
 <br>
 
-## Featured Work
+<img src="assets/header-highlights.svg" height="44"/>
 
-<img src="assets/divider.svg" width="120"/>
+<br>
+
+<img src="assets/highlights.svg" width="100%"/>
+
+<br><br>
+
+<img src="assets/header-work.svg" height="44"/>
+
+<br>
 
 <table>
 <tr>
@@ -83,9 +91,9 @@ Power BI dashboard with DAX measures for discount %, price-to-rating ratio, and 
 
 <br>
 
-## Experience
+<img src="assets/header-experience.svg" height="44"/>
 
-<img src="assets/divider.svg" width="120"/>
+<br>
 
 | | | |
 |---|---|---|
@@ -96,15 +104,13 @@ Power BI dashboard with DAX measures for discount %, price-to-rating ratio, and 
 
 <br>
 
-## Stack
-
-<img src="assets/divider.svg" width="120"/>
-
-<div align="center">
-<img src="assets/stack-panel.svg" width="100%"/>
-</div>
+<img src="assets/header-stack.svg" height="44"/>
 
 <br>
+
+<img src="assets/stack-panel.svg" width="100%"/>
+
+<br><br>
 
 <details>
 <summary>🎓 Education & Certifications</summary>
@@ -116,9 +122,6 @@ Power BI dashboard with DAX measures for discount %, price-to-rating ratio, and 
 - IBM Granite Models for Software Development — *IBM SkillsBuild*
 - Introduction to Data Science and Artificial Intelligence — *LinkedIn Learning*
 - Java 11 and Java Object-Oriented Programming — *LinkedIn Learning*
-
-<img src="https://github-readme-stats.vercel.app/api?username=SakshiiRajputt&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=F2A93B&text_color=E7E9EC&icon_color=2FB8A8&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiiRajputt&layout=compact&hide_border=true&bg_color=0B0E14&title_color=F2A93B&text_color=E7E9EC" width="42%"/>
 
 </details>
 
